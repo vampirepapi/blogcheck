@@ -18,7 +18,7 @@ What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just [move](https://vampirepapi.github.io) to :).
+To be honest, I'm having some trouble remembering right now, so why don't you just [move](https://vampirepapi.github.io/) to :).
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.life" alt="visitor badge"/>
