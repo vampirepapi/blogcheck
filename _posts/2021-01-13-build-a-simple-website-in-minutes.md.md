@@ -1,10 +1,8 @@
-﻿
 ---
 layout: post
 title: How this blog was made
 subtitle: easy-peasy
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/whatisblog.png
 share-img: /assets/img/path.jpg
 tags: [blog, tutorial]
 ---
